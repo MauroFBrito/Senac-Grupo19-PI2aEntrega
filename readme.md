@@ -24,6 +24,7 @@ A utilização da POO (Programação Orientada a Objetos) traz grandes vantagens
 
 ---
 
+**Tela de Cadastro Geral**
 
 ![Tela Cadastros Gerais](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Cadastros%20gerais.jpg?raw=true)
 
