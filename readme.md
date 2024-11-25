@@ -226,7 +226,9 @@ A partir da tela inicial, podemos acessar a página de login dos alunos, por exe
 # Tela de Cadastro Geral:
 Esta tela apresenta, no cabeçalho, o nome da Universidade e um menu com a mensagem ‘Olá, [nome do usuário]’, onde o usuário pode clicar/tocar em cima e aparecem mais opções. No corpo da página temos uma tabela com as informações dos usuários já cadastrados, abaixo um campo de pesquisa e após os botões: Relatórios, Excluir, Editar e Novo Cadastro.
 
-![Tela Cadastros Gerais](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Cadastros%20gerais.jpg?raw=true)
+![Tela Cadastros Gerais](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Cadastros%20Gerais.png)
+
+
 
 # Novo Cadastro:
 Nesta tela o usuário com perfil de administrador poderá incluir um novo cadastro. A tela apresenta o mesmo cabeçalho da tela de Cadastro Geral. No corpo da página temos o título ‘Novo Cadastro’ seguido das opções de cadastro para Pessoa Física (Aluno ou Professor) e de Pessoa Jurídica (Fornecedor). Abaixo temos o formulário de cadastro, campo para pesquisa e os botões Relatórios, Excluir, Editar e Novo Cadastro.
@@ -239,7 +241,6 @@ Nesta tela o usuário com perfil de administrador poderá incluir um novo cadast
 
 *Novo Cadastro Pessoa Jurídica*
 ![Tela Novo Cadastro Pessoa Jurídica](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Novo%20Cadastro%20-%20Pessoa%20Jur%C3%ADdica.png)
-
 
 Os componentes da interface foram projetados para que o usuário possa acessar facilmente as funcionalidades disponíveis. A utilização de cores foi feita de forma que garantisse o contraste necessário para que o usuário localize os botões e navegue pelas funcionalidades necessárias facilmente.
 
@@ -256,9 +257,6 @@ A implementação deste sistema tem como intuito uma série de melhorias operaci
 OLIVEIRA, Henrique Pontes Gonçalves de. Análise de sistemas. São Paulo: Editora Senac São Paulo, 2019. (Série Universitária). Disponível em: <https://senacsp.blackboard.com/ultra/courses/_251987_1/cl/outline>. Acesso em: 23 set. 2024.
 
 LEAL, Enoque. Projeto Integrador [Apresentação]. São Paulo: SENAC EAD, 2024. Disponível em: <https://senacsp.blackboard.com/ultra/courses/_251987_1/cl/outline>. Acesso em: 23 set. 2024.
-
-
-
 
 
 ---
