@@ -231,7 +231,7 @@ Esta tela apresenta, no cabeçalho, o nome da Universidade e um menu com a mensa
 # Novo Cadastro:
 Nesta tela o usuário com perfil de administrador poderá incluir um novo cadastro. A tela apresenta o mesmo cabeçalho da tela de Cadastro Geral. No corpo da página temos o título ‘Novo Cadastro’ seguido das opções de cadastro para Pessoa Física (Aluno ou Professor) e de Pessoa Jurídica (Fornecedor). Abaixo temos o formulário de cadastro, campo para pesquisa e os botões Relatórios, Excluir, Editar e Novo Cadastro.
 
-
+![Tela Novo Cadastro Aluno](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Novo%20Cadastro%20-%20Pessoa%20F%C3%ADsica%20(Aluno).png)
 
 
 ---
