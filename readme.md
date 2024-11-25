@@ -196,9 +196,11 @@ Descrição: Descreve como o administrador escolar pode criar, atualizar, visual
 
 ---
 
-![Diagrama de Classes](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Diagr%20Classes%20Pag1.pdf?raw=true)
 
-![Diagrama de Classes](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Diagr%20Classes%20Pag1.pdf?raw=true)
+# Diagramas de Classes
+![Diagrama de Classes](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Diagr%20Classes%20Pag1.png)
+
+
 
 ---
 
