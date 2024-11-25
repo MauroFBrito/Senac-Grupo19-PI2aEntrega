@@ -208,24 +208,35 @@ Descrição: Descreve como o administrador escolar pode criar, atualizar, visual
 
 ---
 
-*Interface*
+# *Interface*
 
 A interface foi projetada com o objetivo de proporcionar uma interação intuitiva e eficiente, onde o usuário consiga realizar suas tarefas de forma rápida e sem dificuldades.
 As cores escolhidas para o projeto foram preto, branco e cinza como cores principais e laranja como cor de destaque.
 A aplicação é responsiva, ou seja, a interface se adapta a desktops, tablets e celulares, por exemplo. 
 A seguir iremos demonstrar algumas páginas da interface incluindo imagens para ilustrar as descrições.
 
-Tela inicial:
+# Tela inicial:
 A tela inicial apresenta, no cabeçalho, um botão de Menu, um de acesso do Aluno e outro de Cadastros. Abaixo, no corpo da página, são exibidas mensagens selecionadas pelo administrador do sistema e, no rodapé, temos os ícones de redes sociais onde a Universidade tem páginas (Instagram, Youtube e LinkedIn).
 A partir da tela inicial, podemos acessar a página de login dos alunos, por exemplo, pelo botão Aluno, conforme imagem a seguir. Na página de login temos o formulário de acesso com os campos de E-mail e Senha, o botão de Entrar e a opção de ‘Esqueceu sua senha?’ logo ao final do formulário.
+
+
+![Tela inicial mobile](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Tela%20inicial%20mobile%20ajustada.jpeg)
+
+
+# Tela de Cadastro Geral:
+Esta tela apresenta, no cabeçalho, o nome da Universidade e um menu com a mensagem ‘Olá, [nome do usuário]’, onde o usuário pode clicar/tocar em cima e aparecem mais opções. No corpo da página temos uma tabela com as informações dos usuários já cadastrados, abaixo um campo de pesquisa e após os botões: Relatórios, Excluir, Editar e Novo Cadastro.
+
+![Tela Cadastros Gerais](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Cadastros%20gerais.jpg?raw=true)
+
+# Novo Cadastro:
+Nesta tela o usuário com perfil de administrador poderá incluir um novo cadastro. A tela apresenta o mesmo cabeçalho da tela de Cadastro Geral. No corpo da página temos o título ‘Novo Cadastro’ seguido das opções de cadastro para Pessoa Física (Aluno ou Professor) e de Pessoa Jurídica (Fornecedor). Abaixo temos o formulário de cadastro, campo para pesquisa e os botões Relatórios, Excluir, Editar e Novo Cadastro.
+
 
 
 
 ---
 
-**Tela de Cadastro Geral**
 
-![Tela Cadastros Gerais](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Cadastros%20gerais.jpg?raw=true)
 
 ---
 
