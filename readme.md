@@ -198,12 +198,30 @@ Descrição: Descreve como o administrador escolar pode criar, atualizar, visual
 
 ![Diagrama de Classes](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Diagr%20Classes%20Pag1.pdf?raw=true)
 
+![Diagrama de Classes](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Diagr%20Classes%20Pag1.pdf?raw=true)
 
+---
+
+*Diagrama de Casos de Uso:*
+![Casos de Uso](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/PI%20-%20Diagramas%20de%20Casos%20de%20Uso3.png?raw=true)
 
 
 ---
 
+*Interface*
 
+A interface foi projetada com o objetivo de proporcionar uma interação intuitiva e eficiente, onde o usuário consiga realizar suas tarefas de forma rápida e sem dificuldades.
+As cores escolhidas para o projeto foram preto, branco e cinza como cores principais e laranja como cor de destaque.
+A aplicação é responsiva, ou seja, a interface se adapta a desktops, tablets e celulares, por exemplo. 
+A seguir iremos demonstrar algumas páginas da interface incluindo imagens para ilustrar as descrições.
+
+Tela inicial:
+A tela inicial apresenta, no cabeçalho, um botão de Menu, um de acesso do Aluno e outro de Cadastros. Abaixo, no corpo da página, são exibidas mensagens selecionadas pelo administrador do sistema e, no rodapé, temos os ícones de redes sociais onde a Universidade tem páginas (Instagram, Youtube e LinkedIn).
+A partir da tela inicial, podemos acessar a página de login dos alunos, por exemplo, pelo botão Aluno, conforme imagem a seguir. Na página de login temos o formulário de acesso com os campos de E-mail e Senha, o botão de Entrar e a opção de ‘Esqueceu sua senha?’ logo ao final do formulário.
+
+
+
+---
 
 **Tela de Cadastro Geral**
 
