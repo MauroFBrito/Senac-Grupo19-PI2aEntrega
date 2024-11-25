@@ -237,8 +237,27 @@ Nesta tela o usuário com perfil de administrador poderá incluir um novo cadast
 *Novo Cadastro Professor*
 ![Tela Novo Cadastro Professor](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Novo%20Cadastro%20-%20Pessoa%20F%C3%ADsica%20(Professor).png)
 
+*Novo Cadastro Pessoa Jurídica*
+![Tela Novo Cadastro Pessoa Jurídica](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Novo%20Cadastro%20-%20Pessoa%20Jur%C3%ADdica.png)
+
+
+Os componentes da interface foram projetados para que o usuário possa acessar facilmente as funcionalidades disponíveis. A utilização de cores foi feita de forma que garantisse o contraste necessário para que o usuário localize os botões e navegue pelas funcionalidades necessárias facilmente.
 
 ---
+
+# Conclusão
+
+A implementação deste sistema tem como intuito uma série de melhorias operacionais e administrativas para a faculdade, contribuindo para um ambiente mais organizado e produtivo. Ao facilitar o acesso e a gestão das informações de alunos, professores e fornecedores, a instituição poderá focar no seu principal objetivo: oferecer educação de qualidade.
+
+---
+
+# REFERÊNCIAS
+
+OLIVEIRA, Henrique Pontes Gonçalves de. Análise de sistemas. São Paulo: Editora Senac São Paulo, 2019. (Série Universitária). Disponível em: <https://senacsp.blackboard.com/ultra/courses/_251987_1/cl/outline>. Acesso em: 23 set. 2024.
+
+LEAL, Enoque. Projeto Integrador [Apresentação]. São Paulo: SENAC EAD, 2024. Disponível em: <https://senacsp.blackboard.com/ultra/courses/_251987_1/cl/outline>. Acesso em: 23 set. 2024.
+
+
 
 
 
