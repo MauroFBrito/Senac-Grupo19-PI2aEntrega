@@ -199,7 +199,7 @@ Descrição: Descreve como o administrador escolar pode criar, atualizar, visual
 
 # Diagramas de Classes
 ![Diagrama de Classes](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Diagr%20Classes%20Pag1.png)
-
+![Diagrama de Classes](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Diagr%20Classes%20Pag2.png)
 
 
 ---
@@ -223,6 +223,7 @@ A partir da tela inicial, podemos acessar a página de login dos alunos, por exe
 
 
 ![Tela inicial mobile](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Tela%20inicial%20mobile%20ajustada.jpeg)
+
 
 
 # Tela de Cadastro Geral:
