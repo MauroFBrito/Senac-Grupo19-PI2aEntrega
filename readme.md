@@ -196,6 +196,7 @@ Descrição: Descreve como o administrador escolar pode criar, atualizar, visual
 
 ---
 
+![Diagrama de Classes](Diagr Classes Pag1.pdf)
 
 
 ---
