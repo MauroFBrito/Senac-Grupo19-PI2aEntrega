@@ -22,13 +22,10 @@ A utilização da POO (Programação Orientada a Objetos) traz grandes vantagens
 3.  Programas mais escaláveis e flexíveis
 4.  Modelagem realista
 
----
 
-**Tela de Cadastro Geral**
-
-![Tela Cadastros Gerais](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Cadastros%20gerais.jpg?raw=true)
-
-
+Visão Geral da Solução Proposta:
+A proposta de implementação do sistema visa uma série de benefícios significativos para a faculdade. Primeiramente, a centralização das informações permite o acesso rápido e eficiente aos dados, facilitando a administração e melhorando a experiência dos usuários. Além disso, a interação entre alunos, professores e os demais envolvidos será realizada de maneira simplificada, promovendo um ambiente acadêmico mais colaborativo e engajado.
+A possibilidade de gerar relatórios, análises detalhadas sobre o desempenho acadêmico dos alunos e a gestão de fornecedores também são aspectos muito importantes para a instituição, principalmente para a tomada de decisões estratégicas e melhoria de processos.
 
 ---
 
@@ -198,3 +195,16 @@ Descrição: Descreve como o administrador escolar pode criar, atualizar, visual
 
 
 ---
+
+
+
+---
+
+
+
+**Tela de Cadastro Geral**
+
+![Tela Cadastros Gerais](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Cadastros%20gerais.jpg?raw=true)
+
+---
+
