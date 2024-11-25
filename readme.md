@@ -193,14 +193,11 @@ Descrição: Descreve como o administrador escolar pode criar, atualizar, visual
 |3. Dados do aluno foram armazenados de forma segura no banco de dados.
 |4. O sistema reflete as alterações imediatamente.
 
-
 ---
-
 
 # Diagramas de Classes
 ![Diagrama de Classes](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Diagr%20Classes%20Pag1.png)
 ![Diagrama de Classes](https://github.com/MauroFBrito/Senac-Grupo19-PI2aEntrega/blob/main/Diagr%20Classes%20Pag2.png)
-
 
 ---
 
